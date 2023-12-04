@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ola-star-coder
+- 👋 Hi, I’m @Ola-dev
 - 👀 I’m interested in frontend projects
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on css,Javascript,frontends 
 - 📫 you can reach me on WhatsApp 08068717063
   
