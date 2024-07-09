@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ola-dev
 - 👀 I’m interested in frontend projects.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on css,Javascript,frontend projects.
-- 📫 you can reach me on WhatsApp 08068717063.
+- 💞️ I’m looking to collaborate on frontend projects.
   
 <!---
 Ola-star-coder/Ola-star-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
